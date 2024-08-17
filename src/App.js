@@ -19,6 +19,7 @@ function App() {
         <><div class="card">
           <img src={imags} alt="Logo" />
           <h1>Sasidharan G</h1>
+          <p>Hexagram Fintech</p>
           <p>Associate software Developer</p>
         </div>
         </>
